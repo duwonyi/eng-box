@@ -20,3 +20,6 @@ Application for stuying English.
 - [ ] Move forms in a component for input to a modal.
 - [ ] Design APIs for word.
 - [ ] Add test codes for Redux.
+- [ ] Move a code for ajax requst in SourceSelect Component to actions
+- [ ] Apply auth with JWT
+
