@@ -1,6 +1,6 @@
 # Eng-Box
 
-Application for stuying English(http://eng-box.net)
+Application for stuying English
 
 ## Clients
 
